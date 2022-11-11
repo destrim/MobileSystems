@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SlawomirPotoczekHelloWorld</string>
+    <string name="pamietaj">Pamiętaj!</string>
+    <string name="roll">ROLL</string>
+    <string name="bmi">OBLICZ INDEX BMI</string>
+    <string name="waga">Waga w kg</string>
+    <string name="wzrost">Wzrost w kg</string>
+    <string name="write_to_logcat">Write to Logcat</string>
+    <string name="show_toast_message">Show Toast Message</string>
+    <string name="watch_out">Watch Out!!</string>
+    <string name="show_toast_from_xml">Show Toast From XML</string>
+    <string name="something_will_be_written_here">Something will be written here</string>
+    <string name="write_something_to_edittext">Write something to EditText</string>
+    <string name="write_something_here">Write something here</string>
+    <string name="copy_user_value_to_edit_text">Copy user value to edit text</string>
+    <string name="run_activity_with_test_actions">Run activity with test actions</string>
+    <string name="run_how_many_fingers_game">Run HowManyFingers Game</string>
+    <string name="play_the_game">Play the Game</string>
+    <string name="the_result_will_be_shown_here">The result will be shown here</string>
+    <string name="type_the_number_you_think_i_ve_chosen">Type the number you think I\'ve chosen</string>
+    <string name="type_the_number">Type the number</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="roll_dices">Roll Dices</string>
+</resources>
