@@ -21,4 +21,11 @@
     <string name="type_the_number">Type the number</string>
     <string name="calculate_bmi">Calculate BMI</string>
     <string name="roll_dices">Roll Dices</string>
+    <string name="show_flower_list">Show flower list</string>
+    <string name="pass_value_to_the_next_activity">Pass value to the next activity</string>
+    <string name="wpisz_cos">Wpisz cos</string>
+    <string name="pass_value_to_the_menu_activity">Pass value to the menu activity</string>
+    <string name="modify_name">Modify name</string>
+    <string name="zapisz_w_sp">Zapisz w SP</string>
+    <string name="odczytaj_z_sp">Odczytaj z SP</string>
 </resources>
